@@ -4,13 +4,6 @@ sf
 af
 sa
 
-<<<<<<< HEAD
 main changes
-main changes
-main changes
-main changes
-main changes
-=======
-
 branch2 changes
->>>>>>> branch2
+
