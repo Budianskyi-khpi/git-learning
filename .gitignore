@@ -1,0 +1,7 @@
+*.log
+
+temp/*
+!temp/important.txt
+
+*UNTRACKED*
+
