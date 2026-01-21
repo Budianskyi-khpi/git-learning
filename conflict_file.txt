@@ -1,12 +1,4 @@
-fsadfasfafasfsafaf
-fa
-sf
-af
-sa
+resolved conflict
 
-<<<<<<< HEAD
 main conflicted change
-=======
 branch1 conflicted change
->>>>>>> branch1
-
