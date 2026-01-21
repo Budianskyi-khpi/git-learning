@@ -4,5 +4,9 @@ sf
 af
 sa
 
+<<<<<<< HEAD
 main conflicted change
+=======
+branch1 conflicted change
+>>>>>>> branch1
 
