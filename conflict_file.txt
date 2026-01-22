@@ -1,6 +1,2 @@
-resolved conflict
+BranchB line
 
-main conflicted change
-branch1 conflicted change
-
-for fetch test
