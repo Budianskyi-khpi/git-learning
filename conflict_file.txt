@@ -1,2 +1,2 @@
 BranchB line
-
+BranchA line
