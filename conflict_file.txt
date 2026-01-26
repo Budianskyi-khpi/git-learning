@@ -1,2 +1,1 @@
-BranchB line
-BranchA line
+second try to save stash changes
